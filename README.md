@@ -1,7 +1,7 @@
 # [Click](https://job-portal-009.netlify.app/)
 
 
-Demo Crediantials----------------->
+Demo Crediantials-----------------> ADMIN
 
 Email  :admin123@gmail.com
 
